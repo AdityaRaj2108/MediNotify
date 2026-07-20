@@ -384,12 +384,7 @@ From [backend/package.json](/Users/abdulkalam/Desktop/medialert/MediAlert/backen
 
 ## Team
 
-Built by Team Spartan.
-
-- Abdul Kalam
-- Manjeet Kumar
-- Govind Saini
-- Surya Pratap singh
+Built by Aditya Raj
 
 ## License
 

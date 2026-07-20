@@ -383,8 +383,8 @@ From [backend/package.json](/Users/abdulkalam/Desktop/medialert/MediAlert/backen
 - E2E tests for auth and OAuth flows
 
 ## Team
-
-Built by Aditya Raj
+Aditya Raj
+Abdul Kalam
 
 ## License
 
